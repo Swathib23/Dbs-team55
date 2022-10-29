@@ -1,0 +1,20 @@
+body
+{
+    background-image: url(./singapore.jpg);
+    background-size: cover;
+
+}
+ul
+{
+text-align: center;
+}
+li
+{
+    list-style-type:none;
+    font-size: 20px;
+}
+h1
+{
+    text-align: center;
+    margin-top: 5px;
+}
