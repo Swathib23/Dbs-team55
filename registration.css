@@ -1,0 +1,48 @@
+body
+{
+ background-image: url(./singapore.jpg);
+ background-size: cover;
+}
+/*.register
+{
+    width:300px;
+    margin: auto;
+}
+
+label,input{
+    width:50%;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}*/
+h1
+{
+    text-align: center;
+}
+
+form
+{
+    width:500px;
+    margin:auto;
+}
+
+input[type=text],[type=tel],[type=number],[type=password],[type=email],label
+{
+    width:35%;
+    font-size:20px;
+    text-align: center;
+
+}
+box
+{
+ width:600px;
+ margin: auto;
+ background-color: bisque;
+}
+div{
+    margin: auto;
+    margin-top: 2px;
+}
+button
+{
+    margin-top: 5px;
+}
